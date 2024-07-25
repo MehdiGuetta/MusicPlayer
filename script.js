@@ -29,7 +29,7 @@ const songs = [
         path: 'assets/music/3.mp3',
         displayName: 'Vuelve',
         artwork: 'assets/img/3.png',
-        artist: 'Morad, Byny Jr',
+        artist: 'Morad, Beny Jr',
     },
     {
         path: 'assets/music/4.mp3',
